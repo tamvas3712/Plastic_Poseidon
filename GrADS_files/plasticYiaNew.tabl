@@ -1,0 +1,24 @@
+ DSET ../prepNetcdfplastic/MicroValidaSize_2010_2012med10newFree.dat
+OPTIONS big_endian
+FORMAT  sequential
+TITLE   Cretan Sea ECO output
+UNDEF   -1e+10
+XDEF    431  LINEAR -7.  0.1
+YDEF    156  LINEAR 30.25  0.1
+ZDEF    25  LEVELS  1 5 10 15 20 25 30 35 40
+                    50 80 100 120 160 200 240 280
+                    340 420 500 620 850 1250 1750 2000
+TDEF    200   LINEAR  1JAN2002   1mo
+VARS    11
+micro1     0     99     micro1
+micro2     0     99     micro2
+micro3     0     99     micro3
+micro4     0     99     micro4
+micro5     0     99     micro5
+micro6     0     99     micro6
+macro1     0     99     macro1
+macro2     0     99     macro2
+macro3     0     99     macro3
+macro4     0     99     macro4
+macro5     0     99     macro5
+ENDVARS

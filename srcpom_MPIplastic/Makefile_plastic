@@ -1,0 +1,88 @@
+# POM-ERSEM-PLASTICS makefile
+
+#-----------------------------------------------------------------------
+# Settings that depend on the system and the compiler
+#-----------------------------------------------------------------------
+# Set macros
+CPP = cpp -P -w
+FC = mpiifort
+LD = mpiifort
+RM = rm -f
+
+# Set libraries and include files
+#NETCDFINC = -I/opt/UCAR/pnetcdf/include
+#NETCDFLIB = -L/opt/UCAR/pnetcdf/lib
+
+#NETCDFINC = -I/apps/libraries/pnetcdf/1.6.1/intel/include
+#NETCDFLIB = -L/apps/libraries/pnetcdf/1.6.1/intel/lib
+
+#NETCDFINC = -I/usr/local/include
+#NETCDFLIB = -L/usr/local/lib -lpnetcdf
+
+NETCDFINC = -I/opt/pnetcdf-1.11.0/include
+NETCDFLIB = -L/opt/pnetcdf-1.11.0/lib
+
+
+
+FFLAGS = -O3 -fp-model precise -save  -align -init=zero -w -mcmodel large -shared-intel $(NETCDFINC) $(INCLUDES)
+
+CPPFLAGS =    -Doffline -Ddrift $(NETCDFINC) 
+#CPPFLAGS =     -Dpresent   -Dfreshwater -Dpalma -Dradiation -Dcoarse_run -Dfine_run
+#CPPFLAGS =     -Dpresent   -Dfreshwater -Dpalma -Dcoarse_run -Dfine_run
+
+LIBS = $(NETCDFLIB) -lpnetcdf -L./ibm -libm
+
+#KTSIARAS
+INCLUDES   =   -I./ibm/include -I./area/med10
+
+
+#-----------------------------------------------------------------------
+# Set the executable
+#-----------------------------------------------------------------------
+#BIN = ../pomibm.exe
+BIN = ../bin/pomibm.exe
+
+
+#-----------------------------------------------------------------------
+# Define source directory
+#-----------------------------------------------------------------------
+SRCDIR = pom
+
+#-----------------------------------------------------------------------
+# Define objects
+#-----------------------------------------------------------------------
+OBJS = parallel_mpi.o   \
+       io_pnetcdf.o     \
+       advance.o        \
+       initialize.o     \
+	     add_subs.o	\
+       pom.o
+VPATH = $(SRCDIR)
+
+#-----------------------------------------------------------------------
+# Set implicit rules for compilation
+#-----------------------------------------------------------------------
+%.o: %.f90
+	@echo
+	$(FC) -c $(FFLAGS) $<
+
+#-----------------------------------------------------------------------
+# Set implicit rules for dependencies
+#-----------------------------------------------------------------------
+%.f90: %.F90
+	@echo
+	$(CPP) $(CPPFLAGS) $< > $*.f90
+
+#-----------------------------------------------------------------------
+# Create the executable
+#-----------------------------------------------------------------------
+$(BIN): $(OBJS) ../ibm/libibm.a
+	@echo
+	#$(LD) $(FFLAGS) -o $(BIN) $(OBJS) $(CPPFLAGS) $(LIBS)
+	$(LD) $(FFLAGS) -o $(BIN) $(OBJS) $(LIBS)
+
+#-----------------------------------------------------------------------
+# Cleaning target
+#-----------------------------------------------------------------------
+clean:
+	$(RM) *.o *.mod

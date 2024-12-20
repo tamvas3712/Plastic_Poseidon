@@ -1,0 +1,23 @@
+dir=/opt/netcdf/
+dir1=ibmParams/
+#
+#
+#### compile common modules
+ifort -mcmodel medium -shared-intel -c poseidon_common_subroutines.f90 -L${dir}lib/  -I${dir}include/ -L${dir}lib/ -lnetcdff -lnetcdf
+ifort -mcmodel medium -shared-intel -c ibm_common_subroutines.f90 -L${dir}lib/  -I${dir}include/ -L${dir}lib/ -lnetcdff -lnetcdf
+
+####PRE-PROCESSING
+ifort -save -align -zero -mcmodel large -shared-intel -o ../bin/prepare_netcdfPOMibmplastic prepare_netcdfPOMibmplasticInit.f90 -L${dir}lib/  -I${dir}include/  -I${dir1} -L${dir}lib/ -lnetcdff -lnetcdf poseidon_common_subroutines.o ibm_common_subroutines.o
+
+#this is the right script to use rather than the above for simulations that import data
+#ifort -save -align -zero -mcmodel large -shared-intel -o ../bin/prepare_netcdfPOMibmplastic prepare_netcdfPOMibmplastic.f90 -L${dir}lib/  -I${dir}include/ -I${dir1} -L${dir}lib/ -lnetcdff -lnetcdf poseidon_common_subroutines.o ibm_common_subroutines.o
+
+####RUN-TIME
+#ADD SIs from Sources
+ifort -mcmodel medium -shared-intel -o ../bin/write_netcdfPOMibmplastic write_netcdfPOMibmplastic.f90 -L${dir}lib/  -I${dir1} -I${dir}include/ -L${dir}lib/ -lnetcdff -lnetcdf poseidon_common_subroutines.o ibm_common_subroutines.o
+
+ifort -g -traceback -check bounds -save -align -zero -mcmodel large -shared-intel -O0 -o ../bin/prepare_netcdfPOMibmplasticaddSources prepare_netcdfPOMibmplasticaddSources.f90 gatherIBMs.F90 -L${dir}lib/  -I${dir}include/ -I${dir1} -L${dir}lib/ -lnetcdff -lnetcdf poseidon_common_subroutines.o ibm_common_subroutines.o
+
+
+chmod +775 *
+chmod +775 ../bin/*

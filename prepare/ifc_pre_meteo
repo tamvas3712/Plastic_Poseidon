@@ -1,0 +1,1 @@
+ifort -o ../bin/pre_meteo_posII pre_meteo_posII.f90

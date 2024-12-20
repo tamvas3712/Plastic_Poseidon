@@ -1,0 +1,2954 @@
+1
+31
+010110
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.269s
+user	0m37.665s
+sys	0m4.339s
+
+real	0m7.574s
+user	0m28.637s
+sys	0m8.161s
+2010
+finished with run_med_plastic.sh
+020110
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.272s
+user	0m37.832s
+sys	0m4.198s
+
+real	0m7.586s
+user	0m28.473s
+sys	0m8.325s
+2010
+finished with run_med_plastic.sh
+030110
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.284s
+user	0m35.461s
+sys	0m3.676s
+
+real	0m7.308s
+user	0m27.651s
+sys	0m7.785s
+2010
+finished with run_med_plastic.sh
+040110
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.627s
+user	0m38.381s
+sys	0m4.696s
+
+real	0m7.439s
+user	0m27.954s
+sys	0m8.012s
+2010
+finished with run_med_plastic.sh
+050110
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.991s
+user	0m39.108s
+sys	0m5.023s
+
+real	0m7.645s
+user	0m28.741s
+sys	0m8.322s
+2010
+finished with run_med_plastic.sh
+060110
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.485s
+user	0m38.698s
+sys	0m3.953s
+
+real	0m7.657s
+user	0m28.885s
+sys	0m8.190s
+2010
+finished with run_med_plastic.sh
+070110
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.959s
+user	0m39.200s
+sys	0m4.862s
+
+real	0m6.990s
+user	0m26.514s
+sys	0m7.371s
+2010
+finished with run_med_plastic.sh
+080110
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.238s
+user	0m35.506s
+sys	0m3.429s
+
+real	0m6.966s
+user	0m26.475s
+sys	0m7.322s
+2010
+finished with run_med_plastic.sh
+090110
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.032s
+user	0m34.677s
+sys	0m3.619s
+
+real	0m7.094s
+user	0m27.018s
+sys	0m7.415s
+2010
+finished with run_med_plastic.sh
+100110
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.109s
+user	0m35.300s
+sys	0m3.314s
+
+real	0m7.090s
+user	0m26.861s
+sys	0m7.517s
+2010
+finished with run_med_plastic.sh
+110110
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.455s
+user	0m36.028s
+sys	0m3.598s
+
+real	0m6.889s
+user	0m26.101s
+sys	0m7.241s
+2010
+finished with run_med_plastic.sh
+120110
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.453s
+user	0m36.028s
+sys	0m3.534s
+
+real	0m6.852s
+user	0m26.079s
+sys	0m7.163s
+2010
+finished with run_med_plastic.sh
+130110
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m12.973s
+user	0m34.881s
+sys	0m3.337s
+
+real	0m7.053s
+user	0m26.634s
+sys	0m7.540s
+2010
+finished with run_med_plastic.sh
+140110
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m12.989s
+user	0m34.772s
+sys	0m3.449s
+
+real	0m7.488s
+user	0m28.275s
+sys	0m7.996s
+2010
+finished with run_med_plastic.sh
+150110
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.060s
+user	0m36.930s
+sys	0m4.512s
+
+real	0m7.551s
+user	0m28.545s
+sys	0m8.012s
+2010
+finished with run_med_plastic.sh
+160110
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.600s
+user	0m36.566s
+sys	0m3.526s
+
+real	0m7.634s
+user	0m28.725s
+sys	0m7.988s
+2010
+finished with run_med_plastic.sh
+170110
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.811s
+user	0m36.894s
+sys	0m3.728s
+
+real	0m7.226s
+user	0m27.453s
+sys	0m7.622s
+2010
+finished with run_med_plastic.sh
+180110
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.111s
+user	0m37.926s
+sys	0m3.667s
+
+real	0m7.258s
+user	0m27.424s
+sys	0m7.580s
+2010
+finished with run_med_plastic.sh
+190110
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.856s
+user	0m39.405s
+sys	0m4.313s
+
+real	0m7.098s
+user	0m26.715s
+sys	0m7.791s
+2010
+finished with run_med_plastic.sh
+200110
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m15.004s
+user	0m40.107s
+sys	0m4.042s
+
+real	0m7.273s
+user	0m27.171s
+sys	0m7.981s
+2010
+finished with run_med_plastic.sh
+210110
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.645s
+user	0m38.752s
+sys	0m4.475s
+
+real	0m7.006s
+user	0m26.494s
+sys	0m7.361s
+2010
+finished with run_med_plastic.sh
+220110
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.530s
+user	0m36.196s
+sys	0m3.578s
+
+real	0m7.734s
+user	0m28.944s
+sys	0m8.517s
+2010
+finished with run_med_plastic.sh
+230110
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.825s
+user	0m37.149s
+sys	0m3.474s
+
+real	0m7.033s
+user	0m26.622s
+sys	0m7.446s
+2010
+finished with run_med_plastic.sh
+240110
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m15.937s
+user	0m41.001s
+sys	0m5.957s
+
+real	0m7.039s
+user	0m26.561s
+sys	0m7.525s
+2010
+finished with run_med_plastic.sh
+250110
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.449s
+user	0m38.463s
+sys	0m3.985s
+
+real	0m6.953s
+user	0m26.360s
+sys	0m7.349s
+2010
+finished with run_med_plastic.sh
+260110
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.795s
+user	0m39.662s
+sys	0m3.853s
+
+real	0m6.819s
+user	0m25.849s
+sys	0m7.235s
+2010
+finished with run_med_plastic.sh
+270110
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.366s
+user	0m38.388s
+sys	0m3.896s
+
+real	0m7.338s
+user	0m27.643s
+sys	0m7.831s
+2010
+finished with run_med_plastic.sh
+280110
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.961s
+user	0m37.407s
+sys	0m3.671s
+
+real	0m6.908s
+user	0m26.200s
+sys	0m7.243s
+2010
+finished with run_med_plastic.sh
+290110
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.901s
+user	0m37.349s
+sys	0m3.542s
+
+real	0m6.926s
+user	0m26.140s
+sys	0m7.383s
+2010
+finished with run_med_plastic.sh
+300110
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.154s
+user	0m35.223s
+sys	0m3.454s
+
+real	0m7.087s
+user	0m26.719s
+sys	0m7.620s
+2010
+finished with run_med_plastic.sh
+310110
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.284s
+user	0m35.668s
+sys	0m3.433s
+
+real	0m7.178s
+user	0m27.073s
+sys	0m7.712s
+2010
+MAKING_AVERAGE
+31
+01
+31
+../data/HindPlastic31/
+          31           1        2010 
+ ../data/HindPlastic31/                                                         
+                      
+ TEST          10           1          31          18
+ ../data/HindPlastic31/310110_OCE/OUTP310110.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           1          30          18
+ ../data/HindPlastic31/300110_OCE/OUTP300110.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           1          29          18
+ ../data/HindPlastic31/290110_OCE/OUTP290110.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           1          28          18
+ ../data/HindPlastic31/280110_OCE/OUTP280110.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           1          27          18
+ ../data/HindPlastic31/270110_OCE/OUTP270110.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           1          26          18
+ ../data/HindPlastic31/260110_OCE/OUTP260110.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           1          25          18
+ ../data/HindPlastic31/250110_OCE/OUTP250110.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           1          24          18
+ ../data/HindPlastic31/240110_OCE/OUTP240110.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           1          23          18
+ ../data/HindPlastic31/230110_OCE/OUTP230110.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           1          22          18
+ ../data/HindPlastic31/220110_OCE/OUTP220110.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           1          21          18
+ ../data/HindPlastic31/210110_OCE/OUTP210110.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           1          20          18
+ ../data/HindPlastic31/200110_OCE/OUTP200110.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           1          19          18
+ ../data/HindPlastic31/190110_OCE/OUTP190110.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           1          18          18
+ ../data/HindPlastic31/180110_OCE/OUTP180110.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           1          17          18
+ ../data/HindPlastic31/170110_OCE/OUTP170110.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           1          16          18
+ ../data/HindPlastic31/160110_OCE/OUTP160110.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           1          15          18
+ ../data/HindPlastic31/150110_OCE/OUTP150110.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           1          14          18
+ ../data/HindPlastic31/140110_OCE/OUTP140110.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           1          13          18
+ ../data/HindPlastic31/130110_OCE/OUTP130110.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           1          12          18
+ ../data/HindPlastic31/120110_OCE/OUTP120110.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           1          11          18
+ ../data/HindPlastic31/110110_OCE/OUTP110110.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           1          10          18
+ ../data/HindPlastic31/100110_OCE/OUTP100110.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           1           9          18
+ ../data/HindPlastic31/090110_OCE/OUTP090110.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           1           8          18
+ ../data/HindPlastic31/080110_OCE/OUTP080110.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           1           7          18
+ ../data/HindPlastic31/070110_OCE/OUTP070110.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           1           6          18
+ ../data/HindPlastic31/060110_OCE/OUTP060110.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           1           5          18
+ ../data/HindPlastic31/050110_OCE/OUTP050110.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           1           4          18
+ ../data/HindPlastic31/040110_OCE/OUTP040110.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           1           3          18
+ ../data/HindPlastic31/030110_OCE/OUTP030110.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           1           2          18
+ ../data/HindPlastic31/020110_OCE/OUTP020110.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           1           1          18
+ ../data/HindPlastic31/010110_OCE/OUTP010110.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ ../data/HindPlastic31/hydro10.bin                                              
+  
+ ../data/HindPlastic31/ssh_sstMo10.bin                                          
+  
+ AVERAGING-ECO          31          31          31
+rm: cannot remove '../data/HindPlastic31/*0110_OCE/EOUT*': No such file or directory
+rm: cannot remove '../data/HindPlastic31/*0110_OCE/ECOR*': No such file or directory
+finished with run_med_plastic.sh
+2
+28
+010210
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.634s
+user	0m36.707s
+sys	0m3.461s
+
+real	0m7.143s
+user	0m26.833s
+sys	0m7.673s
+2010
+finished with run_med_plastic.sh
+020210
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.286s
+user	0m35.487s
+sys	0m3.590s
+
+real	0m7.069s
+user	0m26.706s
+sys	0m7.547s
+2010
+finished with run_med_plastic.sh
+030210
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.563s
+user	0m35.966s
+sys	0m3.943s
+
+real	0m6.962s
+user	0m26.448s
+sys	0m7.329s
+2010
+finished with run_med_plastic.sh
+040210
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.827s
+user	0m36.755s
+sys	0m3.779s
+
+real	0m6.844s
+user	0m26.076s
+sys	0m7.135s
+2010
+finished with run_med_plastic.sh
+050210
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.447s
+user	0m37.767s
+sys	0m4.689s
+
+real	0m7.083s
+user	0m26.906s
+sys	0m7.428s
+2010
+finished with run_med_plastic.sh
+060210
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.859s
+user	0m39.105s
+sys	0m4.613s
+
+real	0m6.773s
+user	0m25.699s
+sys	0m7.174s
+2010
+finished with run_med_plastic.sh
+070210
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.322s
+user	0m38.159s
+sys	0m3.931s
+
+real	0m6.829s
+user	0m25.906s
+sys	0m7.181s
+2010
+finished with run_med_plastic.sh
+080210
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m15.581s
+user	0m40.930s
+sys	0m4.994s
+
+real	0m7.216s
+user	0m27.059s
+sys	0m7.901s
+2010
+finished with run_med_plastic.sh
+090210
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.886s
+user	0m37.078s
+sys	0m3.751s
+
+real	0m7.095s
+user	0m26.762s
+sys	0m7.593s
+2010
+finished with run_med_plastic.sh
+100210
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.647s
+user	0m36.660s
+sys	0m3.518s
+
+real	0m7.126s
+user	0m26.975s
+sys	0m7.448s
+2010
+finished with run_med_plastic.sh
+110210
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.228s
+user	0m38.372s
+sys	0m3.570s
+
+real	0m6.904s
+user	0m25.913s
+sys	0m7.521s
+2010
+finished with run_med_plastic.sh
+120210
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.688s
+user	0m36.747s
+sys	0m3.518s
+
+real	0m7.037s
+user	0m26.874s
+sys	0m7.215s
+2010
+finished with run_med_plastic.sh
+130210
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m15.064s
+user	0m39.277s
+sys	0m5.103s
+
+real	0m7.038s
+user	0m26.780s
+sys	0m7.340s
+2010
+finished with run_med_plastic.sh
+140210
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.995s
+user	0m37.475s
+sys	0m3.637s
+
+real	0m7.049s
+user	0m26.836s
+sys	0m7.242s
+2010
+finished with run_med_plastic.sh
+150210
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.685s
+user	0m38.509s
+sys	0m4.728s
+
+real	0m7.434s
+user	0m27.911s
+sys	0m8.110s
+2010
+finished with run_med_plastic.sh
+160210
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.905s
+user	0m36.535s
+sys	0m4.416s
+
+real	0m7.140s
+user	0m26.995s
+sys	0m7.629s
+2010
+finished with run_med_plastic.sh
+170210
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.534s
+user	0m35.579s
+sys	0m4.263s
+
+real	0m6.712s
+user	0m25.675s
+sys	0m6.820s
+2010
+finished with run_med_plastic.sh
+180210
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.378s
+user	0m35.572s
+sys	0m3.641s
+
+real	0m6.765s
+user	0m25.726s
+sys	0m7.101s
+2010
+finished with run_med_plastic.sh
+190210
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.084s
+user	0m37.272s
+sys	0m4.171s
+
+real	0m6.867s
+user	0m25.982s
+sys	0m7.373s
+2010
+finished with run_med_plastic.sh
+200210
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.807s
+user	0m37.131s
+sys	0m3.598s
+
+real	0m6.984s
+user	0m26.468s
+sys	0m7.222s
+2010
+finished with run_med_plastic.sh
+210210
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m15.250s
+user	0m39.542s
+sys	0m5.366s
+
+real	0m6.694s
+user	0m25.651s
+sys	0m6.726s
+2010
+finished with run_med_plastic.sh
+220210
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m16.508s
+user	0m42.168s
+sys	0m6.557s
+
+real	0m7.133s
+user	0m26.788s
+sys	0m7.801s
+2010
+finished with run_med_plastic.sh
+230210
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.897s
+user	0m38.895s
+sys	0m4.974s
+
+real	0m7.140s
+user	0m26.817s
+sys	0m7.633s
+2010
+finished with run_med_plastic.sh
+240210
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.579s
+user	0m36.636s
+sys	0m3.347s
+
+real	0m7.348s
+user	0m27.899s
+sys	0m7.651s
+2010
+finished with run_med_plastic.sh
+250210
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.267s
+user	0m35.507s
+sys	0m3.536s
+
+real	0m6.932s
+user	0m26.182s
+sys	0m7.468s
+2010
+finished with run_med_plastic.sh
+260210
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.058s
+user	0m35.148s
+sys	0m3.299s
+
+real	0m6.750s
+user	0m25.759s
+sys	0m6.995s
+2010
+finished with run_med_plastic.sh
+270210
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.962s
+user	0m36.907s
+sys	0m4.133s
+
+real	0m6.596s
+user	0m25.341s
+sys	0m6.645s
+2010
+finished with run_med_plastic.sh
+280210
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.217s
+user	0m38.109s
+sys	0m3.669s
+
+real	0m7.181s
+user	0m26.987s
+sys	0m7.812s
+2010
+MAKING_AVERAGE
+28
+02
+28
+../data/HindPlastic31/
+          28           2        2010 
+ ../data/HindPlastic31/                                                         
+                      
+ TEST          10           2          28          18
+ ../data/HindPlastic31/280210_OCE/OUTP280210.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           2          27          18
+ ../data/HindPlastic31/270210_OCE/OUTP270210.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           2          26          18
+ ../data/HindPlastic31/260210_OCE/OUTP260210.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           2          25          18
+ ../data/HindPlastic31/250210_OCE/OUTP250210.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           2          24          18
+ ../data/HindPlastic31/240210_OCE/OUTP240210.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           2          23          18
+ ../data/HindPlastic31/230210_OCE/OUTP230210.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           2          22          18
+ ../data/HindPlastic31/220210_OCE/OUTP220210.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           2          21          18
+ ../data/HindPlastic31/210210_OCE/OUTP210210.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           2          20          18
+ ../data/HindPlastic31/200210_OCE/OUTP200210.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           2          19          18
+ ../data/HindPlastic31/190210_OCE/OUTP190210.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           2          18          18
+ ../data/HindPlastic31/180210_OCE/OUTP180210.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           2          17          18
+ ../data/HindPlastic31/170210_OCE/OUTP170210.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           2          16          18
+ ../data/HindPlastic31/160210_OCE/OUTP160210.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           2          15          18
+ ../data/HindPlastic31/150210_OCE/OUTP150210.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           2          14          18
+ ../data/HindPlastic31/140210_OCE/OUTP140210.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           2          13          18
+ ../data/HindPlastic31/130210_OCE/OUTP130210.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           2          12          18
+ ../data/HindPlastic31/120210_OCE/OUTP120210.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           2          11          18
+ ../data/HindPlastic31/110210_OCE/OUTP110210.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           2          10          18
+ ../data/HindPlastic31/100210_OCE/OUTP100210.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           2           9          18
+ ../data/HindPlastic31/090210_OCE/OUTP090210.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           2           8          18
+ ../data/HindPlastic31/080210_OCE/OUTP080210.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           2           7          18
+ ../data/HindPlastic31/070210_OCE/OUTP070210.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           2           6          18
+ ../data/HindPlastic31/060210_OCE/OUTP060210.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           2           5          18
+ ../data/HindPlastic31/050210_OCE/OUTP050210.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           2           4          18
+ ../data/HindPlastic31/040210_OCE/OUTP040210.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           2           3          18
+ ../data/HindPlastic31/030210_OCE/OUTP030210.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           2           2          18
+ ../data/HindPlastic31/020210_OCE/OUTP020210.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           2           1          18
+ ../data/HindPlastic31/010210_OCE/OUTP010210.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ ../data/HindPlastic31/hydro10.bin                                              
+  
+ ../data/HindPlastic31/ssh_sstMo10.bin                                          
+  
+ AVERAGING-ECO          28          28          28
+rm: cannot remove '../data/HindPlastic31/*0210_OCE/EOUT*': No such file or directory
+rm: cannot remove '../data/HindPlastic31/*0210_OCE/ECOR*': No such file or directory
+finished with run_med_plastic.sh
+3
+31
+010310
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.165s
+user	0m37.893s
+sys	0m3.827s
+
+real	0m6.853s
+user	0m25.908s
+sys	0m7.238s
+2010
+finished with run_med_plastic.sh
+020310
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.222s
+user	0m35.385s
+sys	0m3.505s
+
+real	0m6.872s
+user	0m26.173s
+sys	0m7.181s
+2010
+finished with run_med_plastic.sh
+030310
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.741s
+user	0m36.929s
+sys	0m3.496s
+
+real	0m7.005s
+user	0m26.678s
+sys	0m7.422s
+2010
+finished with run_med_plastic.sh
+040310
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.679s
+user	0m38.337s
+sys	0m4.864s
+
+real	0m6.939s
+user	0m26.387s
+sys	0m7.157s
+2010
+finished with run_med_plastic.sh
+050310
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.393s
+user	0m37.569s
+sys	0m4.842s
+
+real	0m6.865s
+user	0m26.308s
+sys	0m6.931s
+2010
+finished with run_med_plastic.sh
+060310
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.992s
+user	0m37.367s
+sys	0m3.751s
+
+real	0m6.720s
+user	0m25.748s
+sys	0m6.866s
+2010
+finished with run_med_plastic.sh
+070310
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.397s
+user	0m38.838s
+sys	0m3.590s
+
+real	0m6.956s
+user	0m26.548s
+sys	0m7.074s
+2010
+finished with run_med_plastic.sh
+080310
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.613s
+user	0m39.259s
+sys	0m3.756s
+
+real	0m6.831s
+user	0m25.838s
+sys	0m7.094s
+2010
+finished with run_med_plastic.sh
+090310
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.648s
+user	0m36.576s
+sys	0m3.514s
+
+real	0m7.316s
+user	0m27.550s
+sys	0m7.886s
+2010
+finished with run_med_plastic.sh
+100310
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m15.224s
+user	0m40.250s
+sys	0m4.589s
+
+real	0m7.344s
+user	0m27.433s
+sys	0m8.127s
+2010
+finished with run_med_plastic.sh
+110310
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.606s
+user	0m38.617s
+sys	0m4.371s
+
+real	0m6.801s
+user	0m25.961s
+sys	0m7.028s
+2010
+finished with run_med_plastic.sh
+120310
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.137s
+user	0m37.613s
+sys	0m4.041s
+
+real	0m7.011s
+user	0m26.685s
+sys	0m7.236s
+2010
+finished with run_med_plastic.sh
+130310
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m15.387s
+user	0m40.279s
+sys	0m5.032s
+
+real	0m6.687s
+user	0m25.687s
+sys	0m6.772s
+2010
+finished with run_med_plastic.sh
+140310
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.684s
+user	0m36.644s
+sys	0m3.596s
+
+real	0m7.361s
+user	0m27.602s
+sys	0m7.905s
+2010
+finished with run_med_plastic.sh
+150310
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m15.913s
+user	0m42.052s
+sys	0m4.805s
+
+real	0m6.852s
+user	0m26.176s
+sys	0m6.978s
+2010
+finished with run_med_plastic.sh
+160310
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.071s
+user	0m37.867s
+sys	0m3.539s
+
+real	0m7.404s
+user	0m28.017s
+sys	0m7.782s
+2010
+finished with run_med_plastic.sh
+170310
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.337s
+user	0m35.773s
+sys	0m3.522s
+
+real	0m7.366s
+user	0m27.956s
+sys	0m7.645s
+2010
+finished with run_med_plastic.sh
+180310
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.597s
+user	0m36.471s
+sys	0m3.527s
+
+real	0m6.959s
+user	0m26.338s
+sys	0m7.220s
+2010
+finished with run_med_plastic.sh
+190310
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.353s
+user	0m35.672s
+sys	0m3.561s
+
+real	0m7.712s
+user	0m28.502s
+sys	0m9.014s
+2010
+finished with run_med_plastic.sh
+200310
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.284s
+user	0m35.759s
+sys	0m3.372s
+
+real	0m7.253s
+user	0m27.556s
+sys	0m7.552s
+2010
+finished with run_med_plastic.sh
+210310
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.701s
+user	0m36.282s
+sys	0m4.018s
+
+real	0m6.725s
+user	0m25.587s
+sys	0m7.034s
+2010
+finished with run_med_plastic.sh
+220310
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.173s
+user	0m37.240s
+sys	0m4.486s
+
+real	0m6.877s
+user	0m26.358s
+sys	0m6.953s
+2010
+finished with run_med_plastic.sh
+230310
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.973s
+user	0m39.643s
+sys	0m4.426s
+
+real	0m6.911s
+user	0m26.296s
+sys	0m7.146s
+2010
+finished with run_med_plastic.sh
+240310
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.448s
+user	0m38.370s
+sys	0m3.901s
+
+real	0m6.795s
+user	0m25.981s
+sys	0m6.919s
+2010
+finished with run_med_plastic.sh
+250310
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.119s
+user	0m37.831s
+sys	0m3.703s
+
+real	0m7.273s
+user	0m27.570s
+sys	0m7.603s
+2010
+finished with run_med_plastic.sh
+260310
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.922s
+user	0m37.383s
+sys	0m3.652s
+
+real	0m7.049s
+user	0m26.885s
+sys	0m7.191s
+2010
+finished with run_med_plastic.sh
+270310
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.511s
+user	0m36.195s
+sys	0m3.564s
+
+real	0m6.797s
+user	0m26.035s
+sys	0m6.792s
+2010
+finished with run_med_plastic.sh
+280310
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.412s
+user	0m35.970s
+sys	0m3.570s
+
+real	0m6.581s
+user	0m25.453s
+sys	0m6.350s
+2010
+finished with run_med_plastic.sh
+290310
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.983s
+user	0m37.270s
+sys	0m3.893s
+
+real	0m7.351s
+user	0m28.017s
+sys	0m7.585s
+2010
+finished with run_med_plastic.sh
+300310
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.284s
+user	0m35.540s
+sys	0m3.541s
+
+real	0m6.930s
+user	0m26.379s
+sys	0m7.072s
+2010
+finished with run_med_plastic.sh
+310310
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.077s
+user	0m37.485s
+sys	0m3.898s
+
+real	0m6.756s
+user	0m25.749s
+sys	0m6.934s
+2010
+MAKING_AVERAGE
+31
+03
+31
+../data/HindPlastic31/
+          31           3        2010 
+ ../data/HindPlastic31/                                                         
+                      
+ TEST          10           3          31          18
+ ../data/HindPlastic31/310310_OCE/OUTP310310.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           3          30          18
+ ../data/HindPlastic31/300310_OCE/OUTP300310.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           3          29          18
+ ../data/HindPlastic31/290310_OCE/OUTP290310.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           3          28          18
+ ../data/HindPlastic31/280310_OCE/OUTP280310.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           3          27          18
+ ../data/HindPlastic31/270310_OCE/OUTP270310.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           3          26          18
+ ../data/HindPlastic31/260310_OCE/OUTP260310.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           3          25          18
+ ../data/HindPlastic31/250310_OCE/OUTP250310.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           3          24          18
+ ../data/HindPlastic31/240310_OCE/OUTP240310.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           3          23          18
+ ../data/HindPlastic31/230310_OCE/OUTP230310.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           3          22          18
+ ../data/HindPlastic31/220310_OCE/OUTP220310.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           3          21          18
+ ../data/HindPlastic31/210310_OCE/OUTP210310.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           3          20          18
+ ../data/HindPlastic31/200310_OCE/OUTP200310.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           3          19          18
+ ../data/HindPlastic31/190310_OCE/OUTP190310.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           3          18          18
+ ../data/HindPlastic31/180310_OCE/OUTP180310.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           3          17          18
+ ../data/HindPlastic31/170310_OCE/OUTP170310.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           3          16          18
+ ../data/HindPlastic31/160310_OCE/OUTP160310.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           3          15          18
+ ../data/HindPlastic31/150310_OCE/OUTP150310.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           3          14          18
+ ../data/HindPlastic31/140310_OCE/OUTP140310.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           3          13          18
+ ../data/HindPlastic31/130310_OCE/OUTP130310.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           3          12          18
+ ../data/HindPlastic31/120310_OCE/OUTP120310.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           3          11          18
+ ../data/HindPlastic31/110310_OCE/OUTP110310.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           3          10          18
+ ../data/HindPlastic31/100310_OCE/OUTP100310.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           3           9          18
+ ../data/HindPlastic31/090310_OCE/OUTP090310.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           3           8          18
+ ../data/HindPlastic31/080310_OCE/OUTP080310.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           3           7          18
+ ../data/HindPlastic31/070310_OCE/OUTP070310.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           3           6          18
+ ../data/HindPlastic31/060310_OCE/OUTP060310.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           3           5          18
+ ../data/HindPlastic31/050310_OCE/OUTP050310.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           3           4          18
+ ../data/HindPlastic31/040310_OCE/OUTP040310.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           3           3          18
+ ../data/HindPlastic31/030310_OCE/OUTP030310.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           3           2          18
+ ../data/HindPlastic31/020310_OCE/OUTP020310.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           3           1          18
+ ../data/HindPlastic31/010310_OCE/OUTP010310.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ ../data/HindPlastic31/hydro10.bin                                              
+  
+ ../data/HindPlastic31/ssh_sstMo10.bin                                          
+  
+ AVERAGING-ECO          31          31          31
+rm: cannot remove '../data/HindPlastic31/*0310_OCE/EOUT*': No such file or directory
+rm: cannot remove '../data/HindPlastic31/*0310_OCE/ECOR*': No such file or directory
+finished with run_med_plastic.sh
+4
+30
+010410
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m15.285s
+user	0m40.392s
+sys	0m4.655s
+
+real	0m6.864s
+user	0m26.176s
+sys	0m7.061s
+2010
+finished with run_med_plastic.sh
+020410
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.001s
+user	0m37.254s
+sys	0m3.937s
+
+real	0m6.471s
+user	0m25.076s
+sys	0m6.293s
+2010
+finished with run_med_plastic.sh
+030410
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m15.460s
+user	0m40.254s
+sys	0m5.347s
+
+real	0m6.539s
+user	0m25.196s
+sys	0m6.462s
+2010
+finished with run_med_plastic.sh
+040410
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.049s
+user	0m37.805s
+sys	0m3.529s
+
+real	0m6.945s
+user	0m26.334s
+sys	0m7.223s
+2010
+finished with run_med_plastic.sh
+050410
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m15.293s
+user	0m40.340s
+sys	0m4.670s
+
+real	0m6.859s
+user	0m25.958s
+sys	0m7.278s
+2010
+finished with run_med_plastic.sh
+060410
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m16.042s
+user	0m41.791s
+sys	0m5.538s
+
+real	0m7.452s
+user	0m28.253s
+sys	0m7.522s
+2010
+finished with run_med_plastic.sh
+070410
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m15.598s
+user	0m40.575s
+sys	0m5.479s
+
+real	0m7.287s
+user	0m27.898s
+sys	0m7.271s
+2010
+finished with run_med_plastic.sh
+080410
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m15.644s
+user	0m40.100s
+sys	0m6.098s
+
+real	0m7.070s
+user	0m27.015s
+sys	0m7.205s
+2010
+finished with run_med_plastic.sh
+090410
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.030s
+user	0m37.222s
+sys	0m4.125s
+
+real	0m7.950s
+user	0m29.476s
+sys	0m9.004s
+2010
+finished with run_med_plastic.sh
+100410
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.478s
+user	0m36.301s
+sys	0m3.358s
+
+real	0m6.963s
+user	0m26.133s
+sys	0m7.500s
+2010
+finished with run_med_plastic.sh
+110410
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m12.951s
+user	0m34.718s
+sys	0m3.414s
+
+real	0m7.023s
+user	0m26.714s
+sys	0m7.324s
+2010
+finished with run_med_plastic.sh
+120410
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.306s
+user	0m37.563s
+sys	0m4.628s
+
+real	0m7.036s
+user	0m26.860s
+sys	0m7.194s
+2010
+finished with run_med_plastic.sh
+130410
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.500s
+user	0m37.908s
+sys	0m4.795s
+
+real	0m6.564s
+user	0m25.365s
+sys	0m6.403s
+2010
+finished with run_med_plastic.sh
+140410
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.814s
+user	0m36.965s
+sys	0m3.679s
+
+real	0m6.613s
+user	0m25.489s
+sys	0m6.585s
+2010
+finished with run_med_plastic.sh
+150410
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.320s
+user	0m38.199s
+sys	0m3.939s
+
+real	0m7.076s
+user	0m27.108s
+sys	0m7.059s
+2010
+finished with run_med_plastic.sh
+160410
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.326s
+user	0m37.930s
+sys	0m4.228s
+
+real	0m7.180s
+user	0m27.283s
+sys	0m7.441s
+2010
+finished with run_med_plastic.sh
+170410
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.609s
+user	0m38.166s
+sys	0m4.821s
+
+real	0m6.817s
+user	0m26.280s
+sys	0m6.806s
+2010
+finished with run_med_plastic.sh
+180410
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.473s
+user	0m39.012s
+sys	0m3.620s
+
+real	0m6.566s
+user	0m25.364s
+sys	0m6.396s
+2010
+finished with run_med_plastic.sh
+190410
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.125s
+user	0m37.805s
+sys	0m3.747s
+
+real	0m6.629s
+user	0m25.617s
+sys	0m6.444s
+2010
+finished with run_med_plastic.sh
+200410
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.204s
+user	0m38.026s
+sys	0m3.798s
+
+real	0m7.817s
+user	0m28.687s
+sys	0m9.213s
+2010
+finished with run_med_plastic.sh
+210410
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m17.016s
+user	0m43.795s
+sys	0m6.358s
+
+real	0m6.788s
+user	0m25.973s
+sys	0m6.806s
+2010
+finished with run_med_plastic.sh
+220410
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.095s
+user	0m37.916s
+sys	0m3.647s
+
+real	0m6.733s
+user	0m25.960s
+sys	0m6.531s
+2010
+finished with run_med_plastic.sh
+230410
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.921s
+user	0m37.053s
+sys	0m3.951s
+
+real	0m7.092s
+user	0m27.145s
+sys	0m7.111s
+2010
+finished with run_med_plastic.sh
+240410
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m15.107s
+user	0m39.909s
+sys	0m4.596s
+
+real	0m6.980s
+user	0m26.754s
+sys	0m7.000s
+2010
+finished with run_med_plastic.sh
+250410
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.502s
+user	0m36.232s
+sys	0m3.555s
+
+real	0m7.209s
+user	0m27.451s
+sys	0m7.175s
+2010
+finished with run_med_plastic.sh
+260410
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.775s
+user	0m36.529s
+sys	0m4.050s
+
+real	0m6.711s
+user	0m25.952s
+sys	0m6.523s
+2010
+finished with run_med_plastic.sh
+270410
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.513s
+user	0m36.227s
+sys	0m3.525s
+
+real	0m6.569s
+user	0m25.546s
+sys	0m6.275s
+2010
+finished with run_med_plastic.sh
+280410
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.752s
+user	0m36.658s
+sys	0m3.740s
+
+real	0m6.631s
+user	0m25.664s
+sys	0m6.368s
+2010
+finished with run_med_plastic.sh
+290410
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.525s
+user	0m38.552s
+sys	0m4.199s
+
+real	0m6.638s
+user	0m25.621s
+sys	0m6.402s
+2010
+finished with run_med_plastic.sh
+300410
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.920s
+user	0m39.007s
+sys	0m4.905s
+
+real	0m6.504s
+user	0m25.263s
+sys	0m6.252s
+2010
+MAKING_AVERAGE
+30
+04
+30
+../data/HindPlastic31/
+          30           4        2010 
+ ../data/HindPlastic31/                                                         
+                      
+ TEST          10           4          30          18
+ ../data/HindPlastic31/300410_OCE/OUTP300410.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           4          29          18
+ ../data/HindPlastic31/290410_OCE/OUTP290410.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           4          28          18
+ ../data/HindPlastic31/280410_OCE/OUTP280410.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           4          27          18
+ ../data/HindPlastic31/270410_OCE/OUTP270410.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           4          26          18
+ ../data/HindPlastic31/260410_OCE/OUTP260410.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           4          25          18
+ ../data/HindPlastic31/250410_OCE/OUTP250410.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           4          24          18
+ ../data/HindPlastic31/240410_OCE/OUTP240410.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           4          23          18
+ ../data/HindPlastic31/230410_OCE/OUTP230410.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           4          22          18
+ ../data/HindPlastic31/220410_OCE/OUTP220410.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           4          21          18
+ ../data/HindPlastic31/210410_OCE/OUTP210410.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           4          20          18
+ ../data/HindPlastic31/200410_OCE/OUTP200410.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           4          19          18
+ ../data/HindPlastic31/190410_OCE/OUTP190410.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           4          18          18
+ ../data/HindPlastic31/180410_OCE/OUTP180410.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           4          17          18
+ ../data/HindPlastic31/170410_OCE/OUTP170410.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           4          16          18
+ ../data/HindPlastic31/160410_OCE/OUTP160410.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           4          15          18
+ ../data/HindPlastic31/150410_OCE/OUTP150410.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           4          14          18
+ ../data/HindPlastic31/140410_OCE/OUTP140410.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           4          13          18
+ ../data/HindPlastic31/130410_OCE/OUTP130410.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           4          12          18
+ ../data/HindPlastic31/120410_OCE/OUTP120410.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           4          11          18
+ ../data/HindPlastic31/110410_OCE/OUTP110410.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           4          10          18
+ ../data/HindPlastic31/100410_OCE/OUTP100410.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           4           9          18
+ ../data/HindPlastic31/090410_OCE/OUTP090410.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           4           8          18
+ ../data/HindPlastic31/080410_OCE/OUTP080410.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           4           7          18
+ ../data/HindPlastic31/070410_OCE/OUTP070410.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           4           6          18
+ ../data/HindPlastic31/060410_OCE/OUTP060410.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           4           5          18
+ ../data/HindPlastic31/050410_OCE/OUTP050410.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           4           4          18
+ ../data/HindPlastic31/040410_OCE/OUTP040410.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           4           3          18
+ ../data/HindPlastic31/030410_OCE/OUTP030410.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           4           2          18
+ ../data/HindPlastic31/020410_OCE/OUTP020410.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           4           1          18
+ ../data/HindPlastic31/010410_OCE/OUTP010410.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ ../data/HindPlastic31/hydro10.bin                                              
+  
+ ../data/HindPlastic31/ssh_sstMo10.bin                                          
+  
+ AVERAGING-ECO          30          30          30
+rm: cannot remove '../data/HindPlastic31/*0410_OCE/EOUT*': No such file or directory
+rm: cannot remove '../data/HindPlastic31/*0410_OCE/ECOR*': No such file or directory
+finished with run_med_plastic.sh
+5
+31
+010510
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.595s
+user	0m38.818s
+sys	0m4.130s
+
+real	0m6.690s
+user	0m25.804s
+sys	0m6.534s
+2010
+finished with run_med_plastic.sh
+020510
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.653s
+user	0m39.439s
+sys	0m3.657s
+
+real	0m7.007s
+user	0m26.542s
+sys	0m7.515s
+2010
+finished with run_med_plastic.sh
+030510
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.272s
+user	0m38.112s
+sys	0m3.843s
+
+real	0m6.489s
+user	0m24.820s
+sys	0m6.207s
+2010
+finished with run_med_plastic.sh
+040510
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m15.161s
+user	0m39.839s
+sys	0m4.914s
+
+real	0m7.402s
+user	0m28.443s
+sys	0m7.244s
+2010
+finished with run_med_plastic.sh
+050510
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.403s
+user	0m38.107s
+sys	0m4.339s
+
+real	0m6.939s
+user	0m26.675s
+sys	0m6.842s
+2010
+finished with run_med_plastic.sh
+060510
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.834s
+user	0m38.972s
+sys	0m4.719s
+
+real	0m6.995s
+user	0m26.790s
+sys	0m6.983s
+2010
+finished with run_med_plastic.sh
+070510
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.288s
+user	0m38.493s
+sys	0m3.576s
+
+real	0m7.118s
+user	0m27.274s
+sys	0m7.074s
+2010
+finished with run_med_plastic.sh
+080510
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.371s
+user	0m35.825s
+sys	0m3.566s
+
+real	0m6.942s
+user	0m26.872s
+sys	0m6.672s
+2010
+finished with run_med_plastic.sh
+090510
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.878s
+user	0m36.684s
+sys	0m4.231s
+
+real	0m7.509s
+user	0m27.682s
+sys	0m8.523s
+2010
+finished with run_med_plastic.sh
+100510
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.292s
+user	0m37.924s
+sys	0m4.236s
+
+real	0m6.603s
+user	0m25.385s
+sys	0m6.499s
+2010
+finished with run_med_plastic.sh
+110510
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.090s
+user	0m37.126s
+sys	0m4.366s
+
+real	0m6.537s
+user	0m25.115s
+sys	0m6.434s
+2010
+finished with run_med_plastic.sh
+120510
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.762s
+user	0m36.830s
+sys	0m3.647s
+
+real	0m6.651s
+user	0m25.654s
+sys	0m6.552s
+2010
+finished with run_med_plastic.sh
+130510
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.340s
+user	0m38.193s
+sys	0m4.020s
+
+real	0m6.605s
+user	0m25.271s
+sys	0m6.640s
+2010
+finished with run_med_plastic.sh
+140510
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.389s
+user	0m35.838s
+sys	0m3.528s
+
+real	0m6.402s
+user	0m24.866s
+sys	0m6.151s
+2010
+finished with run_med_plastic.sh
+150510
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.653s
+user	0m36.537s
+sys	0m3.634s
+
+real	0m6.417s
+user	0m24.909s
+sys	0m6.037s
+2010
+finished with run_med_plastic.sh
+160510
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m15.152s
+user	0m39.949s
+sys	0m4.653s
+
+real	0m6.722s
+user	0m25.956s
+sys	0m6.501s
+2010
+finished with run_med_plastic.sh
+170510
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.217s
+user	0m38.202s
+sys	0m3.629s
+
+real	0m7.066s
+user	0m27.004s
+sys	0m6.997s
+2010
+finished with run_med_plastic.sh
+180510
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.938s
+user	0m37.404s
+sys	0m3.640s
+
+real	0m6.735s
+user	0m25.985s
+sys	0m6.552s
+2010
+finished with run_med_plastic.sh
+190510
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.313s
+user	0m37.906s
+sys	0m4.268s
+
+real	0m6.789s
+user	0m26.084s
+sys	0m6.657s
+2010
+finished with run_med_plastic.sh
+200510
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.570s
+user	0m38.667s
+sys	0m4.262s
+
+real	0m6.726s
+user	0m25.857s
+sys	0m6.607s
+2010
+finished with run_med_plastic.sh
+210510
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.412s
+user	0m38.369s
+sys	0m4.126s
+
+real	0m7.213s
+user	0m27.198s
+sys	0m7.562s
+2010
+finished with run_med_plastic.sh
+220510
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.779s
+user	0m36.572s
+sys	0m4.038s
+
+real	0m7.094s
+user	0m27.575s
+sys	0m6.677s
+2010
+finished with run_med_plastic.sh
+230510
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.326s
+user	0m35.671s
+sys	0m3.605s
+
+real	0m7.081s
+user	0m26.993s
+sys	0m7.183s
+2010
+finished with run_med_plastic.sh
+240510
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.019s
+user	0m34.923s
+sys	0m3.401s
+
+real	0m6.960s
+user	0m26.779s
+sys	0m6.819s
+2010
+finished with run_med_plastic.sh
+250510
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.723s
+user	0m36.904s
+sys	0m3.464s
+
+real	0m6.947s
+user	0m26.590s
+sys	0m6.761s
+2010
+finished with run_med_plastic.sh
+260510
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.795s
+user	0m36.570s
+sys	0m4.042s
+
+real	0m6.906s
+user	0m26.498s
+sys	0m6.705s
+2010
+finished with run_med_plastic.sh
+270510
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.063s
+user	0m34.998s
+sys	0m3.473s
+
+real	0m7.082s
+user	0m27.011s
+sys	0m7.257s
+2010
+finished with run_med_plastic.sh
+280510
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m12.895s
+user	0m34.775s
+sys	0m3.219s
+
+real	0m6.796s
+user	0m26.092s
+sys	0m6.757s
+2010
+finished with run_med_plastic.sh
+290510
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.232s
+user	0m37.274s
+sys	0m4.695s
+
+real	0m6.513s
+user	0m25.332s
+sys	0m6.076s
+2010
+finished with run_med_plastic.sh
+300510
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m13.438s
+user	0m35.632s
+sys	0m3.800s
+
+real	0m6.540s
+user	0m25.425s
+sys	0m6.189s
+2010
+finished with run_med_plastic.sh
+310510
+calling run_med_plastic
+./run_med_plastic.sh: line 14: ./pre_meteo_posII: No such file or directory
+
+real	0m14.863s
+user	0m39.093s
+sys	0m4.690s
+
+real	0m6.548s
+user	0m25.526s
+sys	0m6.128s
+2010
+MAKING_AVERAGE
+31
+05
+31
+../data/HindPlastic31/
+          31           5        2010 
+ ../data/HindPlastic31/                                                         
+                      
+ TEST          10           5          31          18
+ ../data/HindPlastic31/310510_OCE/OUTP310510.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           5          30          18
+ ../data/HindPlastic31/300510_OCE/OUTP300510.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           5          29          18
+ ../data/HindPlastic31/290510_OCE/OUTP290510.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           5          28          18
+ ../data/HindPlastic31/280510_OCE/OUTP280510.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           5          27          18
+ ../data/HindPlastic31/270510_OCE/OUTP270510.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           5          26          18
+ ../data/HindPlastic31/260510_OCE/OUTP260510.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           5          25          18
+ ../data/HindPlastic31/250510_OCE/OUTP250510.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           5          24          18
+ ../data/HindPlastic31/240510_OCE/OUTP240510.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           5          23          18
+ ../data/HindPlastic31/230510_OCE/OUTP230510.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           5          22          18
+ ../data/HindPlastic31/220510_OCE/OUTP220510.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           5          21          18
+ ../data/HindPlastic31/210510_OCE/OUTP210510.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           5          20          18
+ ../data/HindPlastic31/200510_OCE/OUTP200510.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           5          19          18
+ ../data/HindPlastic31/190510_OCE/OUTP190510.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           5          18          18
+ ../data/HindPlastic31/180510_OCE/OUTP180510.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           5          17          18
+ ../data/HindPlastic31/170510_OCE/OUTP170510.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           5          16          18
+ ../data/HindPlastic31/160510_OCE/OUTP160510.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           5          15          18
+ ../data/HindPlastic31/150510_OCE/OUTP150510.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           5          14          18
+ ../data/HindPlastic31/140510_OCE/OUTP140510.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           5          13          18
+ ../data/HindPlastic31/130510_OCE/OUTP130510.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           5          12          18
+ ../data/HindPlastic31/120510_OCE/OUTP120510.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           5          11          18
+ ../data/HindPlastic31/110510_OCE/OUTP110510.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           5          10          18
+ ../data/HindPlastic31/100510_OCE/OUTP100510.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           5           9          18
+ ../data/HindPlastic31/090510_OCE/OUTP090510.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           5           8          18
+ ../data/HindPlastic31/080510_OCE/OUTP080510.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           5           7          18
+ ../data/HindPlastic31/070510_OCE/OUTP070510.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           5           6          18
+ ../data/HindPlastic31/060510_OCE/OUTP060510.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           5           5          18
+ ../data/HindPlastic31/050510_OCE/OUTP050510.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           5           4          18
+ ../data/HindPlastic31/040510_OCE/OUTP040510.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           5           3          18
+ ../data/HindPlastic31/030510_OCE/OUTP030510.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           5           2          18
+ ../data/HindPlastic31/020510_OCE/OUTP020510.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ TEST          10           5           1          18
+ ../data/HindPlastic31/010510_OCE/OUTP010510.18UTC                              
+                                          
+ TEST-ELB0  0.0000000E+00
+ TEST-ELB2  0.0000000E+00  0.0000000E+00
+ TEST-ELB1  0.0000000E+00
+ ../data/HindPlastic31/hydro10.bin                                              
+  
+ ../data/HindPlastic31/ssh_sstMo10.bin                                          
+  
+ AVERAGING-ECO          31          31          31
+rm: cannot remove '../data/HindPlastic31/*0510_OCE/EOUT*': No such file or directory
+rm: cannot remove '../data/HindPlastic31/*0510_OCE/ECOR*': No such file or directory
+finished with run_med_plastic.sh

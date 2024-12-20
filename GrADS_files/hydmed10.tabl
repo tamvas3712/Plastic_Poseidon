@@ -1,0 +1,19 @@
+DSET ../HindPlastic31/hydro10.bin
+OPTIONS big_endian
+FORMAT  sequential
+TITLE   Cretan Sea ECO output
+UNDEF   -1e+10
+XDEF    431  LINEAR -7.  0.1
+YDEF    156  LINEAR 30.25  0.1
+ZDEF    25  LEVELS  1 5 10 15 20 25 30 35 40
+                    50 80 100 120 160 200 240 280
+                    340 420 500 620 850 1250 1750 2000
+TDEF    200   LINEAR  1JAN2002   1mo
+VARS    6
+ele      0     99     Sea Surface Height
+u     25     99     uvel
+v     25     99     vvel
+tem     25     99     Temperature
+sal     25     99     Salinity
+kh      25     99     Vertical diffusivity
+ENDVARS

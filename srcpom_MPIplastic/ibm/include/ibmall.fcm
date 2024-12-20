@@ -1,0 +1,15 @@
+    integer :: nspecies                           !micro, macro
+    integer :: nvariantsmax,nvariants1,nvariants2             !nano/micro & macro 5mm-2cm, 2cm-20cm, >20cm (bottle, bag, foam)
+
+    parameter  (nspecies=2)
+    integer :: nvariants(nspecies)                    !number of variant classes
+    data nvariants/6,5/
+    parameter (nvariantsmax=6,nvariants1=6,nvariants2=5)
+
+    integer :: nmax
+    parameter  (nmax=500000)                     !maximum number of Super Individual
+
+    include 'ibmvar.fcm'
+    include 'plasticparams.dat'
+
+    include 'diagn.h'

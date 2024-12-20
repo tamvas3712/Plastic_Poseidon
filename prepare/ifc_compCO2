@@ -1,0 +1,1 @@
+ifort  -O3  -fp-model  -align  -w -mcmodel large -shared-intel -o ../bin/make_ecoavCO2 make_eco_gradsAVallCO2mpi.f90 sig2car.f90

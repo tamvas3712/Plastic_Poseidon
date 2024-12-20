@@ -1,0 +1,1 @@
+ifort  -O3  -mp -align -tpp2  -w -mcmodel medium -shared-intel -o ../bin/make_hydav make_grads_hydON.f90 sig2car.f90

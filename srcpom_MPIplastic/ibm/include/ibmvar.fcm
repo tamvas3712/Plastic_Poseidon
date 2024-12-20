@@ -1,0 +1,31 @@
+!--IBM variables
+!--generic attributes
+    integer :: nsi, gathered
+    common /blkibm/ nsi                           ! number of SIs
+    integer :: variant,variant_p,nempty,species,icountdays
+    real    :: nfi,xfi,siz
+    common /blkibm/ species(nmax)                     ! S.I species / used for type of plastic (micro/macro)
+    common /blkibm/ variant(nmax),variant_p(nmax)         ! S.I variant / used for size-type of plastic
+    common /blkibm/ nempty(nmax)                  ! index of non-active S.I
+    common /blkibm/ icountdays(nmax)              ! count days of SI at sea
+    common /blkibm/ nfi(nmax)                     ! number of particles in the SI
+    common /blkibm/ xfi(nmax)                     ! particle weight(gr)
+    common /blkibm/ siz(nmax)                     ! particle size(m)
+    common /blkibm/ gathered(nmax)                ! #of SI gathered (used in gather.F)
+
+!--space attributes
+    integer :: ref,isi,jsi,iarea
+    real    ::  xsi,ysi,fdep,ffsmi,topo,rbt,fou,dista
+    common /blkibm/ isi(nmax),jsi(nmax)           ! lower left grid point of S.I position
+    common /blkibm/ xsi(nmax),ysi(nmax)           ! lon,lat position of S.I
+    common /blkibm/ ref(nmax)                     ! flag for S.I location status (ref=0 at sea, ref>0 at beach, ref=-1 at bottom, ref=-2 outside boundaries)
+    common /blkibm/ iarea(nmax)                   ! init area of S.I (iarea=1 init background, iarea=2-5000 rivers, iarea=5000-8000 wwt, iarea>8000 beach/coast) 
+    common /blkibm/ fdep(nmax)                    ! depth(m) of S.I in the water column
+    common /blkibm/ topo(nmax)                    ! bathymetry(m) at SI location
+    common /blkibm/ rbt(nmax)                     ! time(hours) on beach
+    common /blkibm/ fou(nmax)                     ! biofouling thickness(m)
+    common /blkibm/ dista(nmax)                   ! travelled distance (m)
+
+!--movement attributes
+    real :: densa
+    common /blkibm/ densa(nmax)                   ! density

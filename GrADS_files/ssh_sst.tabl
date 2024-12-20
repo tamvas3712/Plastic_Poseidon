@@ -1,0 +1,15 @@
+ DSET ../ssh_sstMo10.bin
+OPTIONS big_endian
+FORMAT  sequential
+TITLE   Cretan Sea ECO output
+UNDEF   -1e+10
+XDEF    431  LINEAR -7.  0.1
+YDEF    156  LINEAR 30.25  0.1
+ZDEF    25  LEVELS  1 5 10 15 20 25 30 35 40
+                    50 80 100 120 160 200 240 280
+                    340 420 500 620 850 1250 1750 2000
+TDEF    200   LINEAR  1JAN2002   1mo
+VARS    2
+ssh     0     99     ssh
+sst     0     99     sst
+ENDVARS

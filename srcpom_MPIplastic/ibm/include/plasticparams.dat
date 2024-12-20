@@ -1,0 +1,87 @@
+!///////////////////////////////////////PLASTICS PARAMETERS\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+!--Initial weight/particle(gr)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+    real ::  xfiInit(nvariantsmax,nspecies)                    !Initial weight(gr)
+!--Micro-------------------------------------------------------------------------------------
+    data xfiInit(1:nvariants1,1)/0.000000063,0.000004, &
+    0.00002,0.000063,0.0005,0.004/
+!----------------------------------------------------------------------------------------------
+!--Macro-------------------------------------------------------------------------------------
+    data xfiInit(1:nvariants2,2)/0.1,1.,10.,10.,10./
+!----------------------------------------------------------------------------------------------
+
+!----------------------------------------------------------------------------------------------
+!--Initial (background concentration>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+    real :: nfiInit(nvariantsmax,nspecies)                    !Initial number of particles per SI
+!--Micro-------------------------------------------------------------------------------------
+    data nfiInit(1:nvariants1,1)/0.3e+7,0.3e+7,               & ! x0.01 = background concentration (#/Km2 from data median)
+    0.15e+7,0.15e+7,0.15e+7,0.15e+7/  !same contribution 0.25/0.25/0.25/0.25 from conc=1./dia05(i).^1.3; Assuming total=60000 #/Km2 (median from data)
+!----------------------------------------------------------------------------------------------
+!--Macro-------------------------------------------------------------------------------------
+    data nfiInit(1:nvariants2,2)/600000.,30000.,500.,500.,500./ !x0.01 = background concentration (#/Km2 from data median)
+!-->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+!--Particle characteristics
+    real :: diam(nvariantsmax,nspecies) !particle diameter
+    data diam(1:nvariants1,1)/5.e-5,2.e-4,                     & !small micro 50um, 200um,
+                          3.5e-4,5.e-4,10.e-4,20.e-4/        !large micro(>300um)  350um,500um,1000um,2000um
+
+!--macro 5mm-5cm (1cm), 5-20cm (10cm), >20cm
+    data diam(1:nvariants2,2)/1.e-2,1.e-1,2.e-1,0.0067,2.e-1/ !using equivalent sphere diam for plastic bag
+                                                          !bag=pi*D1^2*h=4/3*pi*D2^3, D1=20cm,h=1.5e-5=>D2=0.0067m
+    real :: dens(nvariantsmax,nspecies)       !particle density (kg/m3)
+    real :: denf                          !biofilm density (kg/m3) (Cubarenko 2016)
+    real :: Tsat(nvariantsmax,nspecies)       !time to sink for macro biofouling (days)
+    real :: thic                          !plastic bag/film thickness
+    real :: bacmax                        !maximum bacteria concentration (mgC/m3)
+    real :: bacmean                       !mean bacteria concentration (mgC/m3)
+    real :: dh0max50                      !maximum biofilm growth (m/day) for size 50um and bac=bacmean
+
+    data dens(1:nvariants1,1)/960.,960.,960.,960.,960.,960./ !micro
+    data dens(1:nvariants2,2)/960.,960.,920.,920.,360./      !macro
+    data denf/1500./                                  
+    data Tsat(1:nvariants2,2)/120.,150.,60.,90.,60./         !macro
+    data thic/25.e-6/
+    data bacmax/15./
+    data bacmean/9.5/
+    data dh0max50/7.7e-6/
+
+!--wind drag--------------------------------------------------------------------
+    real :: A_air(nvariantsmax,nspecies),A_water(nvariantsmax,nspecies) !particle surface above/below sea normal to wind
+    data A_air(1:nvariants1,1)/0.,0.,0.,0.,0.,0./            !micro
+    data A_water(1:nvariants1,1)/1.0, 1.0,1.0, 1.0,1.0, 1.0/ !micro
+     
+    data A_air(1:nvariants2,2)/0.,0.,1.,0.,3./               !macro
+    data A_water(1:nvariants2,2)/1.0,1.0,1.0,1.0,1.0/        !macro
+
+!--wind/wave flags------------------------------------------------------------
+    logical :: wavesp(nvariantsmax,nspecies),windp(nvariantsmax,nspecies)
+    data wavesp(1:nvariants1,1)/.true.,.true.,.true.,.true.,.true.,.true./   !micro
+    data windp(1:nvariants1,1)/.false.,.false.,.false.,.false.,.false., &
+    .false./
+    data wavesp(1:nvariants2,2)/.true.,.true.,.true.,.true.,.true./          !macro
+    data windp(1:nvariants2,2)/.false.,.false.,.true.,.false.,.true./
+
+!--beaching
+    real :: rtime(nvariantsmax,nspecies)  !retension time (beaching hours)
+    real :: burial(nvariantsmax,nspecies)! burial rate during retention time
+     
+!--residence time
+    data rtime(1:nvariants1,1)/48.,48.,48.,48.,48.,48./
+    data rtime(1:nvariants2,2)/48.,48.,96.,96.,96./
+
+!--burial (calculated in prepNetcdfplastic/prepare_netcdfPOMibmplasticaddBeach.f)
+    data burial(1:nvariants1,1)/0.075,0.075,0.075,0.075,0.075,0.075/
+    data burial(1:nvariants2,2)/0.01,0.01,0.05,0.05,0.05/
+
+!--Sources
+      real riverMacro(nvariants2)         !contribution from different sizes
+      real riverMacro20(nvariants2)            !contribution from different types of >20cm plastic (bottles,bags,foam)
+      real beachMacro(nvariants2)         !contribution from different sizes
+      real beachMacro20(nvariants2)            !contribution from different types of >20cm plastic (bottles,bags,foam)
+
+      data riverMacro(1:nvariants2) /0.946,0.0475,0.0065,0.0065,0.0065/
+      data riverMacro20(1:nvariants2) /1.,1.,0.4,0.3,0.3/
+
+      data beachMacro(1:nvariants2) /0.946,0.047,0.008,0.008,0.008/
+      data beachMacro20(1:nvariants2) /1.,1.,0.25,0.5,0.25/
+

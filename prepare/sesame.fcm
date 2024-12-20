@@ -1,0 +1,170 @@
+!      INTEGER I,J
+    INTEGER :: OFFSET
+    REAL :: EVENTS
+    LOGICAL :: TIME_IS_NEAR
+    EXTERNAL OFFSET,TIME_IS_NEAR,EVENTS
+     
+    INTEGER :: CONDITION
+    COMMON/TIMERx/CONDITION
+     
+    INTEGER :: INITIAL
+    PARAMETER (INITIAL=-1)
+
+    include 'sesame_params.h'
+
+    REAL :: finished, maxdelt, endtim, outdelt, cycle, &
+    mindelt, relrate, relchang, delfac, rkeps, tdep$, &
+    rr6m$, rp2m$, rp1m$, rp3m$, rp4m$, qnzic$, qpzic$, &
+    qnyic$, qpyic$, qnhic$, qphic$, xr1s$, xr1p$, xr1n$, xr7s$, &
+    xr7p$, xr7n$, pe_r1p1$, pe_r1p2$, pe_r1p3$, pe_r1p4$, &
+    pe_r7p1$, pe_r7p2$, pe_r7r6$, d_tot$, qpw$, etur$, &
+    zero$, pvol, parea, pdepth, bathi,advcor, zdepth, pdens
+
+    COMMON /BOEON/ finished, maxdelt, endtim, outdelt, &
+    cycle, mindelt, relrate, relchang, delfac, istep, &
+    compn, method, rkeps, stcheck, nr$, iswp1$, &
+    iswp2$, iswp3$, iswp4$, iswz3$, iswz4$, iswz5$, iswz6$, &
+    iswb1$, iswh1$, iswh2$, iswy1$, iswy2$, iswy3$, iswy4$, &
+    iswy5$, iswa1$, iswa2$, iswa3$, iswben$, iswki$, &
+    iswtemp$, iswecol$, iswbudg$, iswinp$, iswflux$, iswlig$, &
+    iswzs$, iswforc$, iswspm$, iswco2$, iswtlim$, tdep$, &
+    rr6m$, rp2m$, rp1m$, rp3m$, rp4m$, qnzic$, qpzic$, qnyic$, &
+    qpyic$, qnhic$, qphic$, xr1s$, xr1p$, xr1n$, xr7s$, xr7p$, &
+    xr7n$, pe_r1p1$, pe_r1p2$, pe_r1p3$, pe_r1p4$, pe_r7p1$, &
+    pe_r7p2$, pe_r7r6$, d_tot$, qpw$, etur$, zero$, &
+    iben$(N_COMPg), lower$(N_COMPg), pvol(N_COMPg), &
+    parea(N_COMPg), pdepth(N_COMPg),bathi(n_upper$g), &
+    advcor(I_STATE), zdepth(N_COMPg), pdens(N_COMPg)
+    COMMON /BOEON/ iswfish$,iswfishdyn$,iswfishdynnut$
+
+    integer :: itr,ibou
+    real ::  stvar,srvar, wsi, wso, sdvar, bvar
+!     real wti
+    COMMON /STATEVAR/ stvar(I_STATE, N_COMPg),srvar(I_STATE, N_COMPg), &
+    wsi(I_STATE, N_COMPg), wso(I_STATE, N_COMPg), &
+    sdvar(I_STATE, N_COMPg), &
+    bvar(I_STATE, N_COMPg)
+!    $                 wti(I_STATE, N_COMPg)
+
+    COMMON /iTransport/ itr(I_STATE),ibou(I_STATE)
+
+
+
+
+
+    COMMON /BOEONxx02/ &
+    m1p(N_COMPg), m3n(N_COMPg), m4n(N_COMPg), &
+    m5s(N_COMPg), &
+    sunq(N_COMPg), ess(N_COMPg), etw(N_COMPg), &
+    osat(N_COMPg), aou(N_COMPg), esat(N_COMPg), &
+    chl(N_COMPg), &
+    eir(N_COMPg), &
+    xeps(N_COMPg), eiai(N_COMPg), prodB1(N_COMPg), &
+    netpp(N_COMPg), netp1(N_COMPg), netp2(N_COMPg), &
+    netp3(N_COMPg), netp4(N_COMPg), eipi(N_COMPg), &
+    x1x(N_COMPg), &
+    fp1r6c(N_COMPg), &
+    fp2r6c(N_COMPg), fp3r6c(N_COMPg), fp4r6c(N_COMPg), &
+    fp1o3c(N_COMPg), fp2o3c(N_COMPg), &
+    fp3o3c(N_COMPg), fp4o3c(N_COMPg), fo3p1c(N_COMPg), &
+    fo3p2c(N_COMPg), fo3p3c(N_COMPg), fo3p4c(N_COMPg), &
+    fn4p1n(N_COMPg), fn4p2n(N_COMPg), fn4p3n(N_COMPg), &
+    fn4p4n(N_COMPg), fn3p1n(N_COMPg), fn3p2n(N_COMPg), &
+    fn3p3n(N_COMPg), fn3p4n(N_COMPg), &
+    fn1p1p(N_COMPg), fn1p2p(N_COMPg), fn1p3p(N_COMPg), &
+    fn1p4p(N_COMPg), &
+    fn4n3n(N_COMPg), &
+    fb1o3c(N_COMPg), &
+    fz4o3c(N_COMPg), fz5o3c(N_COMPg), fz6o3c(N_COMPg), &
+    fb1n1p(N_COMPg), fz5n1p(N_COMPg), &
+    fz6n1p(N_COMPg), fb1nin(N_COMPg), &
+    fz5nin(N_COMPg), fz6nin(N_COMPg), &
+    qnp1c(N_COMPg), qpp1c(N_COMPg),qsp1c(N_COMPg),qnp2c(N_COMPg), &
+    qpp2c(N_COMPg), qnp3c(N_COMPg),qpp3c(N_COMPg),qnp4c(N_COMPg), &
+    qpp4c(N_COMPg), qnz5c(N_COMPg),qpz5c(N_COMPg),qpz6c(N_COMPg), &
+    qnz6c(N_COMPg), qnb1c(N_COMPg),qpb1c(N_COMPg),qnr6c(N_COMPg), &
+    qpr6c(N_COMPg), qsr6c(N_COMPg),qnr1c(N_COMPg),qpr1c(N_COMPg), &
+    inip2(N_COMPg), &
+    inip1(N_COMPg), inip3(N_COMPg),inip4(N_COMPg),inp1s(N_COMPg), &
+    yic(N_COMPg), hic(N_COMPg), aero(N_COMPg), &
+    tur_enh(N_COMPg), irr_enh(N_COMPg), qpa1c(N_COMPg), &
+    qna1c(N_COMPg), qsa1c(N_COMPg), &
+    inia1(N_COMPg), &
+    in5a1(N_COMPg),fPBZc(8,3,N_COMPg), &
+    fPTO3c(N_COMPg),fO2PTo(N_COMPg),fO3PTc(N_COMPg),fPTO2o(N_COMPg)
+    COMMON /BOEONgas/ &
+    ta(N_COMPg), totA(N_COMPg),phx(N_COMPg), Carba(N_COMPg), &
+    Bicarb(N_COMPg),Carb(N_COMPg),pco2w(N_COMPg),fairmg(N_COMPg), &
+    pco2a(N_COMPg),om_cal(N_COMPg),om_arg(N_COMPg),cco2(N_COMPg), &
+    wnd(N_COMPg),BOC1(N_COMPg),wsio2o(N_COMPg)
+
+
+
+    REAL :: &
+    m1p, m3n, m4n, &
+    m5s, &
+    sunq, ess, etw, &
+    osat, aou, esat, &
+    chl, &
+    eir, &
+    xeps, eiai, prodB1, &
+    netpp, netp1, netp2, &
+    netp3, netp4, eipi, &
+    x1x, &
+    fp1r6c, &
+    fp2r6c, fp3r6c, fp4r6c, &
+    fp1o3c, fp2o3c, &
+    fp3o3c, fp4o3c, fo3p1c, &
+    fo3p2c, fo3p3c, fo3p4c, &
+    fn4p1n, fn4p2n, fn4p3n, &
+    fn4p4n, fn3p1n, fn3p2n, &
+    fn3p3n, fn3p4n, &
+    fn1p1p, fn1p2p, fn1p3p, &
+    fn1p4p, &
+    fn4n3n, &
+    fb1o3c, &
+    fz4o3c, fz5o3c, fz6o3c, &
+    fb1n1p, fz5n1p, &
+    fz6n1p, fb1nin, &
+    fz5nin, fz6nin, &
+    qnp1c, qpp1c, qsp1c, qnp2c, &
+    qpp2c, qnp3c, qpp3c, qnp4c, &
+    qpp4c, qnz5c, qpz5c, qpz6c, &
+    qnz6c, qnb1c, qpb1c, qnr6c, &
+    qnr1c,qpr1c, &
+    qpr6c, qsr6c, &
+    inip2, &
+    inip1, inip3, inip4, inp1s, &
+    yic, hic, aero, &
+    tur_enh, irr_enh, qpa1c, &
+    qna1c, qsa1c, &
+    inia1, &
+    in5a1,fPBZc , &
+    fPTO3c,fO2PTo,fO3PTc,fPTO2o
+    REAL*8 :: &
+    ta, totA ,phx, Carba, Bicarb, Carb,pco2w, fairmg, pco2a, &
+    om_cal, om_arg, cco2, wnd, &
+    BOC1,wsio2o
+
+
+    COMMON /BOEONxx02/ &
+    steps, fbty4c, fbty3c, fbty2c, jg2o2o, jm5n5s, &
+    jm1n1p, jm4n4n, jm3n3n, jm3g4n, jg3o3c, srsp4, &
+    srsp3, srsp2, srsp1, eo2mo2, pu_n4p4n, pu_n4p3n, &
+    pu_n4p2n, pu_n4p1n
+
+
+    REAL :: steps,fbty4c,fbty3c,fbty2c,jg2o2o,jm5n5s, &
+    jm1n1p,jm4n4n,jm3n3n,jm3g4n,jg3o3c,srsp4,srsp3,srsp2,srsp1,eo2mo2, &
+    pu_n4p4n,pu_n4p3n,pu_n4p2n,pu_n4p1n
+
+    INTEGER :: istep,compn,method,stcheck,nr$,iswp1$,iswp2$, &
+    iswp3$,iswp4$,iswz3$,iswz4$,iswz5$,iswz6$,iswb1$,iswh1$,iswh2$, &
+    iswy1$,iswy2$,iswy3$,iswy4$,iswy5$,iswa1$,iswa2$,iswa3$,iswben$, &
+    iswki$,iswtemp$,iswecol$,iswbudg$,iswinp$,iswflux$, &
+    iswlig$,iswzs$,iswforc$,iswspm$,iswco2$,iswtlim$,iben$,lower$, &
+    iswFISH$,iswfishdyn$,iswfishdynnut$
+         
+
+    INTEGER :: ICOM(N_COMPg),L_COMP
+    COMMON/SEQUENCE/ICOM,L_COMP

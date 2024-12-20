@@ -1,0 +1,44 @@
+#
+SRC	=	\
+		ibm_beach.F90\
+		ibm_c2g.F90\
+		ibm_fcoord.F90\
+		ibm_g2c.F90\
+		ibm_g2gr.F90\
+		ibm_goback.F90\
+		ibm_intsig.F90\
+		ibm_landbc.F90\
+		ibm_vertval.F90\
+		more_subs.F90\
+		lagr_move.F90\
+
+CPPFLAGS =   -Doffline -Ddrift
+CPP      = ifort -preprocess-only
+
+RM       = rm -f
+
+OPTFLAGS = -O3 -mp1 
+LANGFLAGS = -align -auto-scalar -zero -mcmodel=medium 
+INCLUDES = -I../  -I../ibm/include -I./include
+FFLAGS =  $(OPTFLAGS) $(LANGFLAGS) $(INCLUDES)
+FC = ifort
+
+APP  = libibm.a
+
+FOBJS = $(SRC:.F90=.f90)
+OBJS = $(SRC:.F90=.o)
+
+%.f90: %.F90
+	$(CPP) $(CPPFLAGS) -o $@ $<
+%.o: %.f90
+	$(FC) $(FFLAGS) -c -o $@ $<
+
+main: $(FOBJS) $(OBJS)
+	xiar -r -s $(APP) $(OBJS)
+
+
+# Cleaning options.
+clean:
+	$(RM) $(APP) $(OBJS) *.mod *.il *.o
+
+

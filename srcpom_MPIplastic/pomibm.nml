@@ -1,0 +1,39 @@
+&pom_nml
+  title = 'sbPOM test case: REDSEA(1/100 x 1/100)'
+  netcdf_file = 'pom'
+  dti = 1200.
+  time_start = '2000-01-01 00:00:00 +00:00'
+  write_rst = 1.
+  write_rst_file = 'pom'
+  days = 1.
+  prtd1 = 1.
+  prtd2 = 1.
+  swtch = 9999.
+/
+
+
+! title: run's title
+
+! netcdf_file: netCDF output file (rund ID)
+
+! dte: external (2-D) time step (secs.) according to CFL
+
+! time_start: date and time of start of initial run of model in format
+!             (i.e. UDUNITS convention)
+!             YYYY-MM-DD HH:MM:SS <+/->HH:MM
+!             where "<+/->HH:MM" is the time zone (positive eastwards
+!             from Coordinated Universal Time). NOTE that the
+!             climatological time axis (i.e. beginning of year zero,
+!             which does not exist in the real-world calendar) is used
+
+! read_rst_file: restart input file name                 !NOT USED
+! write_rst: interval (days) to write a restart file
+! write_rst_file: restart output file name
+
+! days: run duration (days)
+
+! prtd1: initial print interval (days)
+
+! prtd2: final print interval (days)
+
+! swtch: time to switch from prtd1 to prtd2

@@ -1,0 +1,2 @@
+ifort -mcmodel medium -shared-intel -o -IibmParams/ readIBM readIBM.f90
+

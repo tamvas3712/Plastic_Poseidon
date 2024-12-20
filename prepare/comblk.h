@@ -1,0 +1,54 @@
+    REAL :: KM,KH,KQ,L
+    PARAMETER (im=431,jm=156,KB=25,IMM1=IM-1,JMM1=JM-1,KBM1=KB-1)
+    PARAMETER (IMM2=IM-2,JMM2=JM-2,KBM2=KB-2)
+    PARAMETER (LIJ=IM*JM,LIJ2=LIJ*2,LIJK=LIJ*KB,LIJKM2=LIJ*KBM2)
+    PARAMETER (LIJM1=IM*(JM-1),LIJKM1=LIJ*KBM1)
+    COMMON/BLKCON/ &
+    IINT,IPRINT,DTE,DTI,TPRNU,UMOL, &
+    GRAV,TIME,RAMP,TIMECPU1,TIMECPU2
+!---------------- 1-D ARRAYS --------------------------------------
+    COMMON/BLK1D/ &
+    DZR(KB),Z(KB),ZZ(KB),DZ(KB),DZZ(KB)
+!---------------- 2-D ARRAYS --------------------------------------
+    COMMON/BLK2D/H(IM,JM),DX(IM,JM),DY(IM,JM),D(IM,JM),DT(IM,JM), &
+    ART(IM,JM),ARU(IM,JM),ARV(IM,JM),CBC(IM,JM), &
+    ALON(IM,JM),ALAT(IM,JM),ANG(IM,JM), &
+    DUM(IM,JM),DVM(IM,JM),FSM(IM,JM),COR(IM,JM), &
+    WUSURF(IM,JM),WVSURF(IM,JM),WUBOT(IM,JM),WVBOT(IM,JM), &
+    WTSURF(IM,JM),WSSURF(IM,JM),TPS(IM,JM),AAM2D(IM,JM), &
+    UAF(IM,JM),UA(IM,JM),UAB(IM,JM),VAF(IM,JM),VA(IM,JM), &
+    VAB(IM,JM),ELF(IM,JM),EL(IM,JM),ELB(IM,JM),PSI(IM,JM), &
+    ETF(IM,JM),ET(IM,JM),ETB(IM,JM),FLUXUA(IM,JM),FLUXVA(IM,JM), &
+    EGF(IM,JM),EGB(IM,JM)
+!---------------- 3-D ARRAYS --------------------------------------
+    COMMON/BLK3D/ &
+    A(IM,JM,KB),C(IM,JM,KB),EE(IM,JM,KB),GG(IM,JM,KB), &
+    UF(IM,JM,KB),VF(IM,JM,KB), &
+    KM(IM,JM,KB),KH(IM,JM,KB),KQ(IM,JM,KB),L(IM,JM,KB), &
+    Q2(IM,JM,KB),Q2B(IM,JM,KB),AAM(IM,JM,KB), &
+    Q2L(IM,JM,KB),Q2LB(IM,JM,KB), &
+    U(IM,JM,KB),UB(IM,JM,KB),W(IM,JM,KB), &
+    V(IM,JM,KB),VB(IM,JM,KB), &
+    T(IM,JM,KB),TB(IM,JM,KB), &
+    S(IM,JM,KB),SB(IM,JM,KB), &
+    RHO(IM,JM,KB),DTEF(IM,JM,KB),RMEAN(IM,JM,KB)
+!----------- 1 AND 2-D BOUNDARY VALUE ARRAYS ------------------------
+    COMMON/BDRY/ &
+    TBE(JM,KB),TBW(JM,KB),TBN(IM,KB),TBS(IM,KB), &
+    SBE(JM,KB),SBW(JM,KB),SBN(IM,KB),SBS(IM,KB), &
+    UBE(JM,KB),UBW(JM,KB),UBN(IM,KB),UBS(IM,KB), &
+    VBE(JM,KB),VBW(JM,KB),VBN(IM,KB),VBS(IM,KB), &
+    UABE(JM),UABW(JM),UABN(IM),UABS(IM), &
+    VABE(JM),VABW(JM),VABN(IM),VABS(IM), &
+    ELE(JM),ELW(JM),ELN(IM),ELS(IM), &
+    COVRHN(IM),COVRHE(JM)
+
+
+
+
+
+
+
+
+
+
