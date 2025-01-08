@@ -16,7 +16,32 @@ Simulator of sea plastic polution, based on the Princeton Ocean Model (POM), ERS
 - [Run](#run)
 
 ## Installation
+ The simulator uses netcdf libraries and the ifort compiler, and normally runs on Intel CPUs. You can use the following commands to install
+ dependencies and the simulator.
 ```bash
+#install make:
+sudo apt install make
+
+#install netcdf libraries:
+sudo apt-get install netcdf-bin
+sudo apt-get install libnetcdf-dev libnetcdff-dev
+nc-config --all
+
+#install ifort (see Intel ifort homepage, change filenames accordingly):
+sudo sh l_dpcpp-cpp-compiler_p_2022.0.2.84_offline.sh
+sudo sh l_fortran-compiler_p_2022.0.2.83_offline.sh
+
+sudo sh ./l_HPCKit_p_2022.1.2.117_offline.sh
+sudo sh ./l_BaseKit_p_2022.1.2.146_offline.sh
+
+#change oneapi variables to reflect architecture:
+source /opt/intel/oneapi/setvars.sh intel64
+sudo apt install build-essential
+
+#(optional) install GrADS visualiser:
+sudo apt install grads
+
+#download and compile Plastic_Poseidon:
 git clone https://github.com/tamvas3712/Plastic_Poseidon
 cd Plastic_Poseidon/scripts/
 ./compile_everything.sh
