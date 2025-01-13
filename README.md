@@ -17,7 +17,8 @@ Simulator of sea plastic polution, based on the Princeton Ocean Model (POM), ERS
 
 ## Installation
  The simulator uses netcdf libraries and the ifort compiler, and normally runs on Intel CPUs. You can use the following commands to install
- dependencies and the simulator.
+ dependencies and the simulator. 
+ The repository is missing the /data folder, where all netcdf and other data files reside. To get the data folder for the moment please contact us.
 ```bash
 #install make:
 sudo apt install make
